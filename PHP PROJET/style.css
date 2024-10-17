@@ -17,9 +17,6 @@ body {
         background-image: url('image2.jpg');
         opacity: 1; 
     }
-    50% {
-        opacity: 1;
-    }
     66% {
         background-image: url('image3.jpg');
         opacity: 1;
@@ -39,8 +36,8 @@ h1 {
     margin: 0;
     text-shadow: black;
     font-size: 300%;
-    -webkit-text-stroke: 1.5px black;
-    font-family: Georgia, serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: -4px -1px 0 black;
 }
 
 form {
@@ -54,3 +51,4 @@ form {
     right: 30px;
     top: -70px;
 }
+
