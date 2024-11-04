@@ -1,24 +1,23 @@
-**# PHP-Verdilhan-Allard
+# PHP-Verdilhan-Allard
 
-## Création du site
+## Description
+Ce projet consiste en la création d'un site web simple avec les fonctionnalités suivantes :
 
-Création de la page principale Index.php avec Le fond écran Caroussel.
+## Page principale
+- Création de la page `index.php` avec un fond d'écran carrousel.
 
-Le formulaire de connexion relié à la BDD.
+## Connexion
+- Formulaire de connexion relié à la base de données.
 
-Chargement des citations affichées.
+## Utilisateurs
+- **Visiteur :**
+  - Identifiant : `user`
+  - Mot de passe : `1234`
+- **Administrateur :**
+  - Identifiant : `admin`
+  - Mot de passe : `1234`
 
-## Login de connexion
-
-Pour un visiteur -> ( Identifiant ) : user            ( Mot de passe ) : 1234
-
-Pour un Admin -> ( Identifiant ) : admin            ( Mot de passe ) : 1234
-
-## Affichage du site pour utilisateurs
-
-Lorsque le visiteur va taper ses identifiants, il va être redirigé vers la page citation.php là où il pourra écrire sa citation. Une fois, cela fait un bouton validé lui permet de retourner sur la page Index.php où sa citation apparaîtra.
-
-## Affichage du site pour administrateurs
-
-Lorsque l'admin va taper ses identifiants, il va être redirigé vers la page admin_dashboard.php là où il pourra supprimer les citations. Une fois, l'administration fait, un bouton se déconnecter lui permet de retourner sur la page d'accueil Index.php.
-**
+## Fonctionnalités
+- **Pour les utilisateurs :** Après connexion, le visiteur est redirigé vers `citation.php` pour écrire une citation. Un bouton "Valider" permet de retourner à `index.php`, où la citation sera affichée.
+  
+- **Pour les administrateurs :** Après connexion, l'admin est redirigé vers `admin_dashboard.php` pour gérer les citations (suppression). Un bouton "Déconnexion" permet de revenir à `index.php`.
