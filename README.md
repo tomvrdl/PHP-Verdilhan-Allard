@@ -3,6 +3,20 @@
 ## Description
 Ce projet consiste en la création d'un site web de citations en ligne avec les langages HTML, CSS et PHP avec les fonctionnalitées suivantes :
 
+## Accès au site
+- Télécharger les fichiers dans le dernier patch dans la dernière branche ( si erreur de téléchargement des images, elles se trouvent dans le dossier php projet ).
+- Installer et Lancer Wampserver64.
+- Se connecter sur le site https://admin.alwaysdata.com/login/
+  
+- **Entrer les identifiants suivant :**
+  - Courriel : `tomverdilhan@gmail.com`
+  - Mot de passe : `T@mClément13!`
+
+- Une fois connecté se rendre sur la base de donnée MySQL et se connecter à php admin avec le lien suivant : https://phpmyadmin.alwaysdata.com
+- **Entrer les identifiants suivant :**
+  - Utilisateur : `verdilhan`
+  - Mot de passe : `T@mClément13!`
+
 ## Page principale
 - Création de la page `index.php` avec un fond d'écran carrousel.
 
