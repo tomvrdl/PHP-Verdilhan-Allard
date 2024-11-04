@@ -1,4 +1,4 @@
-# PHP-Verdilhan-Allard
+**# PHP-Verdilhan-Allard
 
 ## Création du site
 
@@ -21,3 +21,4 @@ Lorsque le visiteur va taper ses identifiants, il va être redirigé vers la pag
 ## Affichage du site pour administrateurs
 
 Lorsque l'admin va taper ses identifiants, il va être redirigé vers la page admin_dashboard.php là où il pourra supprimer les citations. Une fois, l'administration fait, un bouton se déconnecter lui permet de retourner sur la page d'accueil Index.php.
+**
