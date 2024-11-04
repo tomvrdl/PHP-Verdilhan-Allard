@@ -8,6 +8,7 @@ Ce projet consiste en la création d'un site web simple avec les fonctionnalité
 
 ## Connexion
 - Formulaire de connexion relié à la base de données.
+- Message d'erreur si mauvais identifiants.
 
 ## Utilisateurs
 - **Visiteur :**
