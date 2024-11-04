@@ -1,7 +1,7 @@
 # PHP-Verdilhan-Allard
 
 ## Description
-Ce projet consiste en la création d'un site web simple avec les fonctionnalités suivantes :
+Ce projet consiste en la création d'un site web de citations en ligne avec les langages HTML, CSS et PHP avec les fonctionnalitées suivantes :
 
 ## Page principale
 - Création de la page `index.php` avec un fond d'écran carrousel.
